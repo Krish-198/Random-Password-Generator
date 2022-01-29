@@ -1,4 +1,5 @@
 import random
+import time
 
 lower = "abcdefghijklmnorstuvwxyz"
 upper = "ABCDEFGHIJKLMNORSTUVWXYZ"
@@ -12,3 +13,4 @@ length = 16
 password = "".join(random.sample(all,length))
 
 print (password)
+time.sleep(60)
