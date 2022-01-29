@@ -12,3 +12,7 @@ Then copy it and use it where ever you want.**
 * Run the exe File
 * Then copy your password and use it where ever you want.
 
+## Edit This project
+* Download the Zip file.
+* Find the .py File.
+* Then use your python editor to edit it.
